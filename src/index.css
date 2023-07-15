@@ -1,0 +1,74 @@
+.container {
+  width: 95vw;
+  margin: 0 auto;
+  max-width: var(--max-width);
+  display: flex;
+  justify-content: center;
+}
+
+.form-control:focus {
+  border: none;
+  outline-width: 1rem;
+  box-shadow: 0 0 0 0.02rem black;
+}
+
+.Search-bar-button {
+  background-color: black;
+  border-color: black;
+  border: none;
+}
+
+.Search-bar-button:hover,
+.Search-bar-button:active {
+  background-color: grey !important;
+}
+
+.background {
+  background-image: url(./assets/background.jpg);
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.icon {
+  width: 25%;
+}
+
+.list {
+  width: 15rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem 3rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.list img {
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.list div {
+  display: flex;
+  flex-direction: column;
+}
+
+.list h5 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.list a {
+  color: greenyellow;
+  text-decoration: none;
+  text-transform: capitalize;
+}
+
+.list a:hover {
+  text-decoration: underline;
+}
