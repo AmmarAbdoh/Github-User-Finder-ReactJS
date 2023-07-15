@@ -1,5 +1,12 @@
 # Github-user-finder-react
 
+
+![1](https://github.com/AmmarAbdoh/Github-user-finder-react/assets/90091361/5573534c-5e69-4117-ac42-823da15d70f6)
+
+
+![2](https://github.com/AmmarAbdoh/Github-user-finder-react/assets/90091361/06d704ff-bf4c-404d-b7a8-ae6da0b59cb0)
+
+
 Follow these steps to run my application on your local machine:
 
 1. **Install Node.js**: Ensure that you have Node.js installed on your machine. You can download it from the official Node.js website: [nodejs.org](https://nodejs.org).
